@@ -1,3 +1,9 @@
+export THEOS_DEVICE_IP=127.0.0.1
+export THEOS_DEVICE_PORT=2222
+
+THEOS=/opt/theos
+THEOS_MAKE_PATH=/opt/theos/makefiles
+
 include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = webinspect
