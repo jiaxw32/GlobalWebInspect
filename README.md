@@ -10,7 +10,7 @@ Enable WebView inspector for all iOS apps, requires jailbreak
 
 ## package and install log
 
-```powershell
+```text
 macbook@admin GlobalWebInspect % make package install
 > Making all for tweak webinspect…
 ==> Preprocessing Tweak.xm…
